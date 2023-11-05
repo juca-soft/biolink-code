@@ -1,0 +1,1 @@
+export { default } from "file:///C:/Next.js/biolink/node_modules/@nuxt/vite-builder/dist/runtime/vite-node.mjs"
